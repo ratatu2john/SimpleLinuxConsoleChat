@@ -1,6 +1,8 @@
 # Console Chat (Client-Server) for Linux
 
-*General application workflow diagram*
+
+https://github.com/user-attachments/assets/8d64331a-09b6-4368-8e28-1cde57d076c2
+
 
 ## Project Description
 
